@@ -1,3 +1,3 @@
 person 2 was here
-# gittest
+# git
 my first changes
